@@ -63,7 +63,7 @@ This project performs **Exploratory Data Analysis (EDA)** on Google Play Store A
 
 ## 🚀 Run on Google Colab
 
-[Google Colab][(https://colab.research.google.com/drive/1R_oaQRx4tGgG-8teV1-Nn7ZOpEegumGg?usp=sharing)]
+[Google Colab Link]⭐(https://colab.research.google.com/drive/1R_oaQRx4tGgG-8teV1-Nn7ZOpEegumGg?usp=sharing)
 
 ---
 
