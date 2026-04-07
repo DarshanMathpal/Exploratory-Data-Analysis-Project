@@ -6,23 +6,23 @@ This project performs **Exploratory Data Analysis (EDA)** on Google Play Store A
 
 ---
 
-## 🎯 Objectives
-
-* Analyze app performance using ratings, installs, and price
-* Understand user behavior and preferences
-* Study user sentiment (positive, negative, neutral)
-* Provide insights to improve app success
-
----
-
 ## 📂 Datasets
 
 * **Play Store Data:** App details like category, rating, installs, price, etc.
 * **User Reviews Data:** User feedback with sentiment, polarity, and subjectivity
 
 ---
-## 🚀 Run on Google Colab
-**Click here to open link**: [Google Colab](https://colab.research.google.com/drive/1R_oaQRx4tGgG-8teV1-Nn7ZOpEegumGg?usp=sharing)⭐
+## 🚀 Quick Access
+**Click here to open the colab link**: [Google Colab](https://colab.research.google.com/drive/1R_oaQRx4tGgG-8teV1-Nn7ZOpEegumGg?usp=sharing)⭐
+
+---
+
+## 🎯 Objectives
+
+* Analyze app performance using ratings, installs, and price
+* Understand user behavior and preferences
+* Study user sentiment (positive, negative, neutral)
+* Provide insights to improve app success
 
 ---
 
