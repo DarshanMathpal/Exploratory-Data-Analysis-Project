@@ -21,6 +21,10 @@ This project performs **Exploratory Data Analysis (EDA)** on Google Play Store A
 * **User Reviews Data:** User feedback with sentiment, polarity, and subjectivity
 
 ---
+## 🚀 Run on Google Colab
+**Click here to open link**: [Google Colab](https://colab.research.google.com/drive/1R_oaQRx4tGgG-8teV1-Nn7ZOpEegumGg?usp=sharing)⭐
+
+---
 
 ## 🧹 Data Cleaning
 
@@ -58,11 +62,6 @@ This project performs **Exploratory Data Analysis (EDA)** on Google Play Store A
 * Prefer free apps with monetization strategies
 * Optimize app size for better accessibility
 * Use feedback to improve apps continuously
-
----
-
-## 🚀 Run on Google Colab
-**Click here to open link**: [Google Colab](https://colab.research.google.com/drive/1R_oaQRx4tGgG-8teV1-Nn7ZOpEegumGg?usp=sharing)⭐
 
 ---
 
