@@ -1,5 +1,6 @@
 # 📊 Play Store App Review Analysis
 
+---
 ## 📌 Overview
 
 This project performs **Exploratory Data Analysis (EDA)** on Google Play Store Apps Data and User Reviews Data to understand factors influencing app performance, user engagement, and sentiment.
